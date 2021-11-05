@@ -11,7 +11,7 @@ Apresentação
 - 🚀 I'm a student  at [Rocketseat][TreinaWeb][DankiCode]
 - 📝 I'm currently graduating in CyberSecurity
 
-- 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/cleber-junio-7b999967/) and [instagram](https://www.instagram.com/juniocleberjunio/)and[twitter(https://twitter.com/CJMT77)]
+- 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/cleber-junio-7b999967/) [instagram](https://www.instagram.com/juniocleberjunio/)and[twitter](https://twitter.com/CJMT77)
 
 
 
