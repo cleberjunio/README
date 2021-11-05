@@ -8,7 +8,7 @@ Apresentação
 
 **About me:**
 - 💻 I'm web developer
-- 🚀 I'm a student  at [Rocketseat][TreinaWeb][DankiCode]
+- 🚀 I'm a student  of [Rocketseat][TreinaWeb][DankiCode]
 - 📝 I have a degree in Internet Systems
 
 
