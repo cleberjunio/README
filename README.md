@@ -1,8 +1,7 @@
-# README
-Apresentação
 
 
 **Hi, I'm Cleber! 
+<img align="center" src="https://c.tenor.com/jM0aoM8e-iEAAAAM/web-developer-mycrxn.gif">
 
 * * *
 
