@@ -1,7 +1,7 @@
 
 
-**Hi, I'm Cleber! 
-<img align="center" src="https://c.tenor.com/jM0aoM8e-iEAAAAM/web-developer-mycrxn.gif">
+<h2>**Hi, I'm Cleber!</h2>
+<p><img align="center" src="https://c.tenor.com/jM0aoM8e-iEAAAAM/web-developer-mycrxn.gif"></p>
 
 * * *
 
