@@ -9,7 +9,9 @@ Apresentação
 **About me:**
 - 💻 I'm web developer
 - 🚀 I'm a student  at [Rocketseat][TreinaWeb][DankiCode]
-- 📝 I'm currently graduating in CyberSecurity
+- 📝 I have a degree in Internet Systems
+
+
 
 - 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/cleber-junio-7b999967/), [instagram](https://www.instagram.com/juniocleberjunio/)and[twitter](https://twitter.com/CJMT77)
 
