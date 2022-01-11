@@ -20,8 +20,8 @@
 
 <img align="left" height="30"  src="https://portalidea.com.br/cursos/27621dc630da7560ddfaa9b4b0588366.webp">
 <img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnaHxK1G3ne71pgYdkildyBYhWwJUR9IZdsw&usqp=CAU">
-<img height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/typescript.png">
-<img height="30" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/linux.png">
+<img align="right" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/typescript.png">
+<img align="right" height="30" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/linux.png">
 
 
 **🚀 let's rock the future!**
