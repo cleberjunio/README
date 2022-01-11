@@ -22,9 +22,8 @@
 <img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/typescript.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/javascript.png">
 <img height="30" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/linux.png">
-
-
-
+<img height="30" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/linux.png">
+https://www.google.com.br/search?q=imagens+livres+de+direitos+autorais+gratuitas+html+css&tbm=isch&hl=pt-BR&bih=546&biw=1354&sa=X&ved=2ahUKEwic-oGYoar1AhXoMLkGHSjMB8UQ3VZ6BAgBEBo
 
 **🚀 let's rock the future!**
   
