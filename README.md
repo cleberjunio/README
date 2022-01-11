@@ -17,8 +17,9 @@
 
 
 **Languages and tools:**
-<img align="left" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnaHxK1G3ne71pgYdkildyBYhWwJUR9IZdsw&usqp=CAU">
+
 <img align="left" height="30"  src="https://portalidea.com.br/cursos/27621dc630da7560ddfaa9b4b0588366.webp">
+<img align="left" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnaHxK1G3ne71pgYdkildyBYhWwJUR9IZdsw&usqp=CAU">
 <img align="left" height="30" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/typescript.png">
 <img height="30" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/linux.png">
 
