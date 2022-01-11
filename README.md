@@ -7,7 +7,7 @@
 
 **About me:**
 - 💻 I'm web developer
-- 🚀 I'm a student  of [Rocketseat][TreinaWeb][DankiCode][B7WEB-Bonieky Lacerda]
+- 🚀 I'm a student  of [Rocketseat] [TreinaWeb] [DankiCode] [B7Web-Bonieky Lacerda]
 - 📝 I have a degree in Internet Systems
 
 
