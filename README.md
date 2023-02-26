@@ -12,7 +12,7 @@
 
 
 
-- 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/cleber-junio-7b999967/), [instagram](https://www.instagram.com/juniocleberjunio/) and [twitter](https://twitter.com/CJMT77)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/cleber-junio-7b999967/), [Instagram](https://www.instagram.com/juniocleberjunio/) and [Twitter](https://twitter.com/CJMT77)
 
 
 
